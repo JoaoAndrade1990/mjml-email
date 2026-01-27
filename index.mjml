@@ -1,0 +1,316 @@
+<mjml lang="pt-PT">
+  <mj-head>
+    <mj-title>Lorem ipsum dolor sit amet</mj-title>
+    <mj-preview>Lorem ipsum dolor sit amet</mj-preview>
+    <mj-breakpoint width="480px" />
+    <mj-attributes>
+      <mj-all font-family="Arial, Helvetica, sans-serif" color="#161F47" font-size="14px" />
+      <mj-text line-height="150%" />
+    </mj-attributes>
+    <mj-style inline="inline"> sup, sub { line-height: 0 !important; font-weight: normal; font-size: .75em; } </mj-style>
+  </mj-head>
+  <mj-body background-color="#FFF">
+    <mj-section background-color="#FFF">
+      <mj-column width="120px" vertical-align="middle">
+        <mj-image padding="0" width="63px" height="55px" src="" alt="logo" />
+      </mj-column>
+      <mj-column vertical-align="middle" width="480px">
+        <mj-text font-size="16px" font-weight="bold"> Exclusivo a Profissionais de Saúde </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFF" padding="0">
+      <mj-column>
+        <mj-image padding="0" width="600px" src="" alt="hero" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFF">
+      <mj-column>
+        <mj-text align="center" font-size="24px" text-transform="uppercase" font-style="italic" font-weight="bold"> Lorem ipsum dolor sit amet, consectetur adipiscing elit </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FBE6E9" padding-left="15px" padding-right="15px" padding-bottom="0">
+      <mj-column width="85px" vertical-align="middle">
+        <mj-image width="63px" height="63px" src="assets/img/icon-calendar.png" alt="Calendário" padding="0 10px" />
+      </mj-column>
+      <mj-column width="485px" vertical-align="middle" padding-top="10px">
+        <mj-text padding="0 10px">
+          <strong style="color: #e11b48">10 de Outubro - </strong>Jantar pré-evento - 20h00<br />
+          <strong style="color: #e11b48">11 de Outubro - </strong>9h00 às 17h15
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FBE6E9" padding-left="15px" padding-right="15px" padding-top="10px" padding-bottom="0">
+      <mj-column width="85px" vertical-align="middle">
+        <mj-image width="63px" height="63px" src="assets/img/icon-location.png" alt="Localização" padding="0 10px" />
+      </mj-column>
+      <mj-column width="485px" vertical-align="middle" padding-top="10px">
+        <mj-text padding="0 10px" line-height="175%">
+          <strong style="color: #e11b48; font-size: 18px">Lorem ipsum dolor </strong><br />
+          <strong>Endereço:</strong> Lorem ipsum dolor sit amet, consectetur adipiscing elit<br />
+          <strong>Como chegar?</strong>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FBE6E9" padding-left="15px" padding-right="15px">
+      <mj-column width="80px" vertical-align="middle"> </mj-column>
+      <mj-column width="85px" vertical-align="middle">
+        <mj-image width="59px" height="30px" src="assets/img/icon-car.png" alt="" padding="0 10px" />
+      </mj-column>
+      <mj-column width="405px" vertical-align="middle" padding-top="10px">
+        <mj-text padding="0 10px" line-height="175%" font-size="13px">
+          <strong style="color: #e11b48">Se viaja de carro</strong><br />
+          <strong>Estacionamento:</strong> no <u>Lorem ipsum dolor sit amet, consectetur.</u><br/>
+          - Lorem ipsum dolor sit amet.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FBE6E9">
+      <mj-column>
+        <mj-image width="437px" src="" alt="mapa" />
+        <mj-text align="center" font-size="11px" padding-top="0"> Lorem ipsum dolor sit amet, consectetur adipiscing elit </mj-text>
+        <mj-text color="#E11B48" align="center" font-size="11px" line-height="100%">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit <strong>Parque da Praia</strong>, lorem ipsum dolor sit amet, consectetur adipiscing elit.<br />
+          Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FBE6E9" padding="0 15px 20px">
+      <mj-column width="80px" vertical-align="middle"></mj-column>
+      <mj-column width="85px" vertical-align="middle">
+        <mj-image width="30px" height="47px" src="assets/img/icon-train.png" alt="" padding="0 10px" />
+      </mj-column>
+      <mj-column width="405px" vertical-align="middle" padding-top="10px">
+        <mj-text padding="0 10px" line-height="125%" font-size="13px">
+          <strong style="color: #e11b48; display: inline-block; margin-bottom: 6px">Se viaja de comboio</strong><br />
+          <em>Transfer</em> da Estação Ferroviária de Campanhã até à Casa da Arquitectura
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FBE6E9" padding="0 15px 40px">
+      <mj-column width="80px" vertical-align="middle"></mj-column>
+      <mj-column width="85px" vertical-align="middle">
+        <mj-image width="62px" height="32px" src="assets/img/icon-plane.png" alt="" padding="0 px" />
+      </mj-column>
+      <mj-column width="405px" vertical-align="middle" padding-top="10px">
+        <mj-text padding="0 10px" line-height="125%" font-size="13px">
+          <strong style="color: #e11b48; display: inline-block; margin-bottom: 6px">Se viaja de avião</strong><br />
+          <em>Transfer</em> de Aeroporto Francisco Sá Carneiro até à Casa da Arquitectura
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FCF1F3" padding="0">
+      <mj-column>
+        <mj-image width="144px" height="45px" src="assets/img/title-agenda.png" align="left" padding="0" alt="Agenda" />
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FCF1F3" padding-left="25px" padding-right="25px" padding-bottom="0">
+      <mj-column border-bottom="1px solid #E11B48">
+        <mj-image width="69px" height="26px" src="assets/img/time-0900.png" align="left" alt="09h00" padding="0" />
+        <mj-text color="#E11B48" font-weight="bold" font-size="16px" font-style="italic" padding="10px 0"> Welcome-coffee </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FCF1F3" padding-left="25px" padding-right="25px" padding-bottom="0">
+      <mj-column border-bottom="1px solid #E11B48">
+        <mj-image width="69px" height="26px" src="assets/img/time-0915.png" align="left" alt="09h15" padding="0" />
+        <mj-text color="#E11B48" font-weight="bold" font-size="16px" padding="10px 0 0"> Abertura </mj-text>
+        <mj-text font-size="16px" padding="6px 0px 10px 25px"> Lorem ipsum dolor sit amet, consectetur adipiscing elit. </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FCF1F3" padding-left="25px" padding-right="25px" padding-bottom="0">
+      <mj-column border-bottom="1px solid #E11B48">
+        <mj-image width="69px" height="26px" src="assets/img/time-0925.png" align="left" alt="09h25" padding="0" />
+        <mj-text color="#E11B48" font-weight="bold" font-size="16px" padding="10px 0 0" text-transform="uppercase"> Sessão 1: Lorem ipsum dolor sit amet, consectetur adipiscing elit </mj-text>
+        <mj-text font-size="16px" padding="6px 0px 10px 25px">
+          <strong>Moderador:</strong> Lorem ipsum <br />
+          <strong><em>Speakers:</em></strong> Lorem ipsum / Dolor sit amet / Consectetur adipiscing
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FCF1F3" padding-left="25px" padding-right="25px" padding-bottom="0">
+      <mj-column border-bottom="1px solid #E11B48">
+        <mj-image width="69px" height="26px" src="assets/img/time-1010.png" align="left" alt="10h10" padding="0" />
+        <mj-text color="#E11B48" font-weight="bold" font-size="16px" padding="10px 0 0" text-transform="uppercase"> Sessão 2: Lorem ipsum dolor sit amet, consectetur adipiscing elit </mj-text>
+        <mj-text font-size="16px" padding="6px 0px 10px 25px">
+          <strong>Moderador:</strong> Lorem ipsum <br />
+          <strong><em>Speakers:</em></strong> Lorem ipsum / Dolor sit amet / Consectetur adipiscing
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FCF1F3" padding-left="25px" padding-right="25px" padding-bottom="0">
+      <mj-column border-bottom="1px solid #E11B48">
+        <mj-image width="69px" height="26px" src="assets/img/time-1055.png" align="left" alt="10h55" padding="0" />
+        <mj-text color="#E11B48" font-weight="bold" font-size="16px" font-style="italic" padding="10px 0"> Coffee-break </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FCF1F3" padding-left="25px" padding-right="25px" padding-bottom="0">
+      <mj-column border-bottom="1px solid #E11B48">
+        <mj-image width="69px" height="26px" src="assets/img/time-1115.png" align="left" alt="11h15" padding="0" />
+        <mj-text color="#E11B48" font-weight="bold" font-size="16px" padding="10px 0 0" text-transform="uppercase"> Sessão 2: Lorem ipsum dolor sit amet, consectetur adipiscing elit </mj-text>
+        <mj-text font-size="16px" padding="6px 0px 10px 25px">
+          <strong>Moderador:</strong> Lorem ipsum <br />
+          <strong><em>Speakers:</em></strong> Lorem ipsum / Dolor sit amet
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FCF1F3" padding-left="25px" padding-right="25px" padding-bottom="0">
+      <mj-column border-bottom="1px solid #E11B48">
+        <mj-image width="69px" height="26px" src="assets/img/time-1200.png" align="left" alt="12h00" padding="0" />
+        <mj-text color="#E11B48" font-weight="bold" font-size="16px" padding="10px 0 0"> Sessão 3: Lorem ipsum dolor sit amet, consectetur adipiscing elit </mj-text>
+        <mj-text font-size="16px" padding="6px 0px 10px 25px">
+          <strong><em>Speakers:</em></strong> Lorem ipsum / Dolor sit amet
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FCF1F3" padding-left="25px" padding-right="25px" padding-bottom="0">
+      <mj-column border-bottom="1px solid #E11B48">
+        <mj-image width="69px" height="26px" src="assets/img/time-1230.png" align="left" alt="12h30" padding="0" />
+        <mj-text font-weight="bold" font-size="16px" padding="10px 0"> Almoço </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FCF1F3" padding="10px 25px 4px">
+      <mj-column>
+        <mj-text color="#E11B48" font-weight="bold" font-size="16px" text-transform="uppercase"> Sessão 1: Lorem - Lorem ipsum dolor sit amet </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FCF1F3" padding="0 25px">
+      <mj-column width="85px">
+        <mj-image width="69px" height="26px" src="assets/img/time-1330.png" align="left" alt="13h30" padding="0" />
+      </mj-column>
+      <mj-column width="465px">
+        <mj-text color="#E11B48" font-size="16px" padding="4px 0 0"> Lorem ipsum dolor sit amet </mj-text>
+        <mj-text font-size="16px" padding="0 0 4px 25px"> <strong>Moderador:</strong> Dr. Lorem </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FCF1F3" padding="0 25px">
+      <mj-column width="85px">
+        <mj-image width="69px" height="26px" src="assets/img/time-1340.png" align="left" alt="13h40" padding="0" />
+      </mj-column>
+      <mj-column width="465px">
+        <mj-text color="#E11B48" font-size="16px" padding="4px 0 0"> Consectetur adipiscing elit </mj-text>
+        <mj-text font-size="16px" padding="0 0 4px 25px">
+          <strong><em>Speaker:</em></strong> Dr. Adipiscing / Dr. Dolor
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#FCF1F3" padding="0 25px">
+      <mj-column width="85px">
+        <mj-image width="69px" height="26px" src="assets/img/time-1410.png" align="left" alt="14h10" padding="0" />
+      </mj-column>
+      <mj-column width="465px">
+        <mj-text color="#E11B48" font-size="16px" padding="4px 0 0"> Lorem ipsum dolor sit amet </mj-text>
+        <mj-text font-size="16px" padding="0 0 4px 25px">
+          <strong><em>Speaker:</em></strong> Dr.ª A / Dr. B
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#FCF1F3" padding="0 25px">
+      <mj-column width="85px">
+        <mj-image width="69px" height="26px" src="assets/img/time-1440.png" align="left" alt="14h40" padding="0" />
+      </mj-column>
+      <mj-column width="465px">
+        <mj-text color="#E11B48" font-size="16px" padding="4px 0 0"> Lorem ipsum dolor sit amet, consectetur adipiscing elit </mj-text>
+        <mj-text font-size="16px" padding="0 0 4px 25px">
+          <strong><em>Speaker:</em></strong> Dr. António
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FCF1F3" padding="0 25px">
+      <mj-column border-bottom="1px solid #E11B48">
+        <mj-text></mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FCF1F3" padding-left="25px" padding-right="25px" padding-bottom="0">
+      <mj-column border-bottom="1px solid #E11B48">
+        <mj-image width="69px" height="26px" src="assets/img/time-1500.png" align="left" alt="15h00" padding="0" />
+        <mj-text color="#E11B48" font-weight="bold" font-size="16px" font-style="italic" padding="10px 0"> Coffee-break </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FCF1F3" padding-left="25px" padding-right="25px" padding-bottom="0">
+      <mj-column border-bottom="1px solid #E11B48">
+        <mj-image width="69px" height="26px" src="assets/img/time-1530.png" align="left" alt="15h30" padding="0" />
+        <mj-text color="#E11B48" font-weight="bold" font-size="16px" padding="10px 0 0"> Lorem ipsum dolor sit amet, consectetur adipiscing elit </mj-text>
+        <mj-text font-size="16px" padding="6px 0px 10px 25px"> <strong>Dinamizadores:</strong> A B C D E </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FCF1F3" padding-left="25px" padding-right="25px">
+      <mj-column>
+        <mj-image width="69px" height="26px" src="assets/img/time-1700.png" align="left" alt="17h00" padding="0" />
+        <mj-text color="#E11B48" font-weight="bold" font-size="16px" padding="10px 0 0"> Encerramento </mj-text>
+        <mj-text font-size="16px" padding="6px 0px 10px 25px"> Dr. António / Enf. Luís </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#FFF">
+      <mj-column>
+        <mj-image width="257px" height="39px" src="assets/img/btn-cta.png" alt="Ver página do evento" href="#"/>
+        <mj-text font-size="18px" align="center" color="#E11B48" font-weight="bold"> Contamos com a sua presença! </mj-text>
+        <mj-text align="center"> Se tiver alguma dúvida entre em contacto. </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#F7F5F4">
+      <mj-column>
+        <mj-text color="black" font-size="12px" line-height="125%" padding-bottom="0"> <strong>BLA:</strong> BLA</mj-text>
+        <mj-text color="black" font-size="12px" line-height="125%" padding-bottom="0">
+          Lorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elit.
+          <a style="color: #e11b48; font-weight: bold" href="#">Consulte aqui as informações</a>.
+        </mj-text>
+        <mj-text color="black" font-size="12px" line-height="125%" padding-bottom="0">
+          BLA▼ Lorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elit
+          <a style="color: #e11b48; font-weight: bold" href="#">Consulte aqui as informações do BLA</a>▼.
+        </mj-text>
+        <mj-text color="black" font-size="12px" line-height="125%" padding-bottom="0">
+          BLABLA▼ Lorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elit
+          <a style="color: #e11b48; font-weight: bold" href="#">Consulte aqui as informações do BLABLA</a>▼.
+        </mj-text>
+        <mj-text color="black" font-size="12px" line-height="125%" padding-bottom="0">
+          ▼Lorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elit.
+        </mj-text>
+        <mj-text color="black" font-size="12px" line-height="125%" padding-bottom="0" font-weight="bold"> A presente comunicação destina-se apenas a profissionais de saúde. </mj-text>
+        <mj-text color="black" font-size="12px" line-height="125%" padding-bottom="0">
+          Para mais informações, por favor
+          <a style="color: #e11b48; font-weight: bold" href="#">clique aqui</a>.<br />
+          A sua privacidade é importante para nós. Por favor, leia a nossa política de privacidade <a style="color: #e11b48; font-weight: bold" href="#">aqui</a>.<br />
+          Se desejar deixar de receber este e-mail, por favor contacte-nos através do email <a style="color: #e11b48; font-weight: bold" href="#">contacto@server.com</a>.
+        </mj-text>
+        <mj-text color="black" font-size="12px" line-height="125%" padding-bottom="0">
+          ©2025 empresas do grupo BLABLA<br />
+          <br />
+          Rua tal, número X,<br />
+          Parque Y Oeiras, Portugal.<br />
+          TEL: +351 210000000 | FAX: +351 210000000
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    <mj-section background-color="#F7F5F4" padding="0 25px">
+      <mj-column border-top="1px solid #E11B48">
+        <mj-text font-size="12px" padding="15px 0" color="black"> PT-PT-PT-PT-PT| outubro 2025 </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
