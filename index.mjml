@@ -12,7 +12,6 @@
   <mj-body background-color="#FFF">
     <mj-section background-color="#FFF">
       <mj-column width="120px" vertical-align="middle">
-        <mj-image padding="0" width="63px" height="55px" src="" alt="logo" />
       </mj-column>
       <mj-column vertical-align="middle" width="480px">
         <mj-text font-size="16px" font-weight="bold"> Exclusivo a Profissionais de Saúde </mj-text>
@@ -21,7 +20,7 @@
 
     <mj-section background-color="#FFF" padding="0">
       <mj-column>
-        <mj-image padding="0" width="600px" src="" alt="hero" />
+        <mj-image padding="0" width="600px" src="/assets/img/hero-exemplo.png" alt="hero" />
       </mj-column>
     </mj-section>
 
